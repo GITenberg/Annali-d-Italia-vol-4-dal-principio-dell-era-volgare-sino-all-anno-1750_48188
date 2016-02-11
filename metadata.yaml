@@ -1,0 +1,34 @@
+_repo: Annali-d-Italia-vol-4-dal-principio-dell-era-volgare-sino-all-anno-1750_48188
+creator:
+  author:
+    agent_name: Muratori, Lodovico Antonio
+    aliases:
+    - Pritanio, Lamindo
+    - Muratori, Ludovico Antonio
+    - Valdesius, Ferdinandus
+    - Muratori, L. A. (Lodovico Antonio)
+    - Muratorio, Ludovico Antonio
+    - Muratori, Luis Antonio
+    - Lampridius, Antonius
+    birthdate: 1672
+    deathdate: 1750
+    gutenberg_agent_id: '40167'
+    url: http://www.gutenberg.org/2009/agents/40167
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Antonio_Muratori
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2015-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48188'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History'
+- !lcc 'DG'
+title: 'Annali d''Italia, vol. 4
+
+  dal principio dell''era volgare sino all''anno 1750'
+url: http://www.gutenberg.org/ebooks/48188
